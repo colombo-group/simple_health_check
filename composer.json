@@ -1,0 +1,12 @@
+{
+    "name": "hocvt/simple_health_check",
+    "authors": [
+        {
+            "name": "Vu Thai Hoc",
+            "email": "vuthaihoc.ttud@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/process": "^5.2"
+    }
+}
